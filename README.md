@@ -4,7 +4,7 @@ An HTML page powered by Javascript to make wallpaper autofill work on older lega
 
 ## How to use
 - Place the HTML file in any folder you wish.
-- Place a copy of the image file you wish to use a wallpaper in the same folder. The size and aspect ratio does not matter.
+- Place a copy of the image file you wish to use as a wallpaper in the same folder. The size and aspect ratio does not matter.
 - Copy the filename of the image file and replace **\<YOUR WALLPAPER IMAGE\>** in the HTML file.
 - Change the parameters to your desired behavior.
 - Set **wallpaper.html** as your wallpaper on your computer's Display Properties and enable Active Desktop if prompted to do so.
