@@ -2,6 +2,8 @@
 An HTML page powered by Javascript to make wallpaper autofill work on older legacy versions of Windows that support Active Desktop like Windows 2000, XP, etc.
 *Only been tested on Windows 2000 Professional, but it should work on other versions that support Active Desktop.*
 
+It's a simple little project that I made after installing Windows 2000 for the sake of nostalgia. The way Windows 2000 handled wallpapers left a lot to be desired, so this happened.
+
 ## How to use
 - Place the HTML file in any folder you wish.
 - Place a copy of the image file you wish to use as a wallpaper in the same folder. The size and aspect ratio does not matter.
