@@ -20,7 +20,7 @@ This setting is used when the image is scaled taller than the screen. Valid valu
 This setting is used when the image is scaled wider than the screen. You may use **left**, **right**, or **_center_** (default). Just like verticalAlign, empty or any random value is considered default.
 
 ### scale
-This setting is the scale factor in decimal percentage. 1 (or 100%) is the minimum value. Any value lower than 1 will be ignored. Depending on the current fill conditions, it will scale by the width or the height of the screen.
+This setting is the scale factor in decimal percentage. 1 (for 100%) is the minimum value. Any value lower than 1 will be ignored.
 
 ## Future plans
 I want to add a few more features but they are low in my priority list right now:
